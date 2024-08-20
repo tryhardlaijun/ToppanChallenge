@@ -46,7 +46,4 @@ pip install -r ./requirements.txt
 
 # DEMO
 
-<video width="320" height="240" controls>
-  <source src="./demo.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
+[Watch the video](https://github.com/tryhardlaijun/ToppanChallenge/blob/main/Challenge2/demo.webm)
