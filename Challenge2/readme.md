@@ -43,3 +43,10 @@ pip install -r ./requirements.txt
 1. In the desktop application, click the "Select and Upload Image" button.
 2. Choose an image file from your computer.
 3. Once the upload is complete, the image will automatically appear on the `index.html` page in your browser.
+
+# DEMO
+
+<video width="320" height="240" controls>
+  <source src="./demo.webm" type="video/webm">
+  Your browser does not support the video tag.
+</video>
